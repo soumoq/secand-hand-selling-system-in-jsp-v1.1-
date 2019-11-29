@@ -1,1 +1,1 @@
-# secand-hand-selling-system-in-jsp-v1.1-
+# Secand hand selling system in JSP
